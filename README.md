@@ -1,6 +1,8 @@
 # NodeJS
 NodeJS-Learning-Note
 
+Video Add: https://www.bilibili.com/video/BV1Ns411N7HU/?spm_id_from=333.999.0.0&vd_source=9949a86c318d19180c1308c019dfb103
+
 
 
 
